@@ -15,4 +15,4 @@ Open a web browser and browse the project. E.g [http://localhost/superschool]
 LOGIN DETAILS: 
 USERNAME: demo
 password: demo
- ejoy
+ 
